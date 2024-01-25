@@ -10,7 +10,7 @@ on:
 
       - jenk
 
-    pull_request:
+  pull_request:
     types:
       - opened
       - synchronize
